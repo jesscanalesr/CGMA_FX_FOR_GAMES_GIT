@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/JACR/Documents/Unreal Projects/CGMA_FX_for_Games/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/JACR/Documents/Unreal Projects/CGMA_FX_for_Games/Content/RTVFX/VFX/NS_Sparks_week01.uasset",
+				"C:/Users/JACR/Documents/Unreal Projects/CGMA_FX_for_Games/Content/RTVFX/Maps/LVL_CGMA_01.umap"
+			]
+		}
+	]
+}
